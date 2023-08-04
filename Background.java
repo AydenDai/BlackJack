@@ -583,7 +583,7 @@ public class Background extends JPanel
        {
          drawCenteredText(g, "The dealer won with BlackJack!", 960, 170);
        }
-       else if(botm==5&&sum<21)
+       else if(botm==5&&botsum<21)
        {
          drawCenteredText(g, "The dealer won because the dealer drew 5 cards without busting!", 960, 170);
        }
