@@ -1,12 +1,20 @@
 Coding Proposal
 Ayden Dai
 
-Brief Description: Our project is to code and make graphics for BlackJack. Our game will use pictures as the background and will use buttons on the screen for the player to play the game. If the player wins, ties, loses, it will print it out. If the player wants to play again and presses the “yes” button, the program will restart.
+Brief Description: Our project is to code and make graphics for BlackJack. Our game will use pictures as the background and will use 
+buttons on the screen for the player to play the game. If the player wins, ties, loses, it will print it out. If the player wants to 
+play again and presses the “yes” button, the program will restart.
 
-Learning: Make the photos for the card and implement them. Uses loops and if statements to make a working game. If able to, make a working game with graphics and implement buttons and animation.
+Learning: Make the photos for the card and implement them. Uses loops and if statements to make a working game. If able to, make a 
+working game with graphics and implement buttons and animation.
 
-Minimal Viable Product: Code of BlackJack that works in the terminal. Uses a random number generator to generate cards, and will not be fully like a deck of cards because it is possible to get 5 of the same cards. Uses if statements to and loops to let the player make his move. Prints out A, J, Q, K if the numbers are 1, 11, 12, and 13. Makes the whole code a method. If the player wants to play again, it will run the method again, or else it will end the code.
+Minimal Viable Product: Code of BlackJack that works in the terminal. Uses a random number generator to generate cards, and will not 
+be fully like a deck of cards because it is possible to get 5 of the same cards. Uses if statements to and loops to let the player 
+make his move. Prints out A, J, Q, K if the numbers are 1, 11, 12, and 13. Makes the whole code a method. If the player wants to play 
+again, it will run the method again, or else it will end the code.
 
-Stretch Goals: Code of BlackJack that works with graphics. Buttons that are a “hit” and “stay” button. Reveals the player’s and dealer’s cards as an image. Use animation to make the cards move from the deck to the player’s spot. Code that makes the player be able to choose if they want to play again or not. 
+Stretch Goals: Code of BlackJack that works with graphics. Buttons that are a “hit” and “stay” button. Reveals the player’s and dealer’s 
+cards as an image. Use animation to make the cards move from the deck to the player’s spot. Code that makes the player be able to choose 
+if they want to play again or not. 
 
 Division of Labor: All me
