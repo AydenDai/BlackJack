@@ -1,5 +1,5 @@
 Coding Proposal
-Ayden Dai and Arav Soni
+Ayden Dai
 
 Brief Description: Our project is to code and make graphics for BlackJack. Our game will use pictures as the background and will use buttons on the screen for the player to play the game. If the player wins, ties, loses, it will print it out. If the player wants to play again and presses the “yes” button, the program will restart.
 
@@ -9,7 +9,4 @@ Minimal Viable Product: Code of BlackJack that works in the terminal. Uses a ran
 
 Stretch Goals: Code of BlackJack that works with graphics. Buttons that are a “hit” and “stay” button. Reveals the player’s and dealer’s cards as an image. Use animation to make the cards move from the deck to the player’s spot. Code that makes the player be able to choose if they want to play again or not. 
 
-Division of Labor: 
-Ayden: Code that works in terminal
-Arav: Makes cards and code them into the game, makes the background and code it into the game.
-Together: Use the cards and put it together into the code but instead of printing the cards, it will show the image. Instead asking the player to type “hit” or “stay”, use buttons instead. Also use buttons for asking if the player wants to play again.
+Division of Labor: All me
